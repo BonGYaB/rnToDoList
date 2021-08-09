@@ -1,2 +1,2 @@
-# rnToDoList
-it is to do list example for using React-Native
+# ToDoList
+it is to-do-list sample for using React-Native
